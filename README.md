@@ -23,6 +23,7 @@ Areas of Improvement -
 One improvement would be enhancing package management. While the system allows disabling packages, making it more modular would let the client easily ass or modify packages without developer assistance. Implementing a drag and drop interface for package customization could be a future enhancement. 
 
 User-Centered System Design: 
+
 User roles were defined to ensure proper access control -
 * Customers: Register, schedule, cancel and modify lessons.
 * Administrator/Secretary: Manage reservations manually for customers who call in.
