@@ -15,7 +15,7 @@ Project Strengths & Areas for Improvement:
 
 Project Strengths - 
 
-*Comprehensive security features: Implemented MFA, HTTPS encryption, and secure payment processing.
+* Comprehensive security features: Implemented MFA, HTTPS encryption, and secure payment processing.
 * Scalable architecture: Suggestion for cloud hosting and load balancing to support up to 1,000 concurrent users.
 * User role customization: Suggested the creation of flexible role-based access controls for different system users.
 
